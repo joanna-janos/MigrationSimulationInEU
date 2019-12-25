@@ -1,12 +1,12 @@
 import selenium.webdriver
 from pathlib import Path
-from directory import create_not_existing_directory
+from map.directory import create_not_existing_directory
 
 def prepare_png_from_html(html_files_dir):
     try:
         png_files_dir = html_files_dir + '../img/'
         create_not_existing_directory(png_files_dir)
-        driver = selenium.webdriver.Chrome(executable_path=r'../chromedriver/chromedriver')
+        driver = selenium.webdriver.Chrome(executable_path=r'chromedriver/chromedriver')
         steps = 20
         current_working_directory = Path.cwd()
         for step in range(steps):

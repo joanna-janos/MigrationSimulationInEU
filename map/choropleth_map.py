@@ -1,12 +1,12 @@
 import pandas as pd
 import folium
 import pathlib
-from directory import create_not_existing_directory
+from map.directory import create_not_existing_directory
 
 def get_mapping_country_name_to_id():
     country_name_to_id = {}
 
-    with open("../data/country_to_id.txt") as f:
+    with open("data/country_to_id.txt") as f:
         for line in f:
             (country_name, country_id) = line.strip().split(',')
             country_name_to_id[country_name] = country_id
@@ -21,7 +21,7 @@ def replace_country_name_with_id(agents_per_step):
 def save_map_in_each_step(agents_per_step, coordinates):
     replace_country_name_with_id(agents_per_step)
     steps = len(agents_per_step.loc[0]) - 1
-    html_files_dir = '../results/map/html/'
+    html_files_dir = 'results/map/html/'
 
     for step in range(steps):
         EU_map = folium.Map(location=[52, 12], zoom_start=4)
