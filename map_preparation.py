@@ -1,6 +1,6 @@
 from map.choropleth_map import save_map_in_each_step
-from map.gif_map import prepare_png_from_html
-from map.data_preparation import prepare_gif
+from map.data_preparation import prepare_png_from_html
+from map.gif_map import prepare_gif
 import pandas as pd
 
 if __name__ == "__main__":
