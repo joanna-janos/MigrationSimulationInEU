@@ -1,0 +1,28 @@
+Austria,AUT
+Belgium,BEL
+Bulgaria,BGR
+Cyprus,CYP
+Czech Republic,CZE
+Germany,DEU
+Denmark,DNK
+Spain,ESP
+Estonia,EST
+Finland,FIN
+France,FRA
+United Kingdom,GBR
+Greece,GRC
+Croatia,HRV
+Malta,MT
+Hungary,HUN
+Ireland,IRL
+Italy,ITA
+Lithuania,LTU
+Latvia,LVA
+Luxemburg,LUX
+Netherlands,NLD
+Poland,POL
+Portugal,PRT
+Romania,ROU
+Slovakia,SVK
+Slovenia,SVN
+Sweden,SWE
