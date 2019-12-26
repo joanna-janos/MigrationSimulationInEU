@@ -1,3 +1,7 @@
+# html and png files needed for animation
+results/map/html/
+results/map/img/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
