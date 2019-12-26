@@ -8,7 +8,7 @@
     <a><img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-3.1.1-blue.svg"></a>
 </p>
 
-<center><img src="results/map/animation.gif" width="600" height="400" /></center>
+<p align=center><img src="results/map/animation.gif" width="600" height="400" /></p>
 
 <h2> :bulb: Purpose </h2>
 Migration simulation of people in EU based on data gathered especially from EU reports.
