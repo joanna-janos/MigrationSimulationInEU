@@ -11,7 +11,8 @@
 <p align=center><img src="results/map/animation.gif" width="600" height="400" /></p>
 
 <h2> :bulb: Purpose </h2>
-Migration simulation of people in EU based on data gathered especially from EU reports.
+Migration simulation of people in EU based on data gathered especially from EU reports. <br>
+Agents can migrate only to neighbouring countries within one step.
 
 <h2> :file_folder: Content </h2>
 
@@ -29,7 +30,6 @@ Migration simulation of people in EU based on data gathered especially from EU r
 - level of being likely to travel
 - happiness level
 
-Agent can migrate only to neighbouring country within one step.
 
 <h2> :round_pushpin: Attributes assigned to all people in countries </h2>
 
