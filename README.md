@@ -27,17 +27,18 @@ Agents can migrate only to neighbouring countries within one step.
 - origin and current country
 - religious denomination
 - race
-- level of being likely to travel
+- likely to travel
 - happiness level
 
 
 <h2> :round_pushpin: Attributes assigned to all people in countries </h2>
 
-- level of being comfortable with a White/Black/Asian people in their country
-- level of being comfortable with a Jew/Christian/Muslim in their country
-- level of being comfortable with people from different country in social relations
-- level of being comfortable with integration with people from other countries
-- level of being likely to move to another country within the next 10 years
+- likely to move to another country within the next 10 years
+- how comfortable feel with:
+    - a White/Black/Asian people in their country
+    - a Jew/Christian/Muslim in their country
+    - people from different country in social relations
+    - integration with people from other countries
 
 <h2> :sparkles: Results </h2>
 
