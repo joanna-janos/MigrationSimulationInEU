@@ -1,7 +1,7 @@
 <h1 align="center"><b><i>Migration simulation in EU</i></b></h1>
 <p align=center>
     <a><img alt="mesa" src="https://img.shields.io/badge/agent based modeling framework-mesa-blue.svg"></a>
-    <a><img alt="librosa" src="https://img.shields.io/badge/visualisation-librosa-blue.svg"></a><br>
+    <a><img alt="folium" src="https://img.shields.io/badge/visualisation-folium-blue.svg"></a><br>
     <a><img alt="Python" src="https://img.shields.io/badge/python-3.8-blue.svg"></a>
     <a><img alt="pandas" src="https://img.shields.io/badge/pandas-0.25.3-blue.svg"></a>
     <a><img alt="seaborn" src="https://img.shields.io/badge/seaborn-0.9.0-blue.svg"></a>
